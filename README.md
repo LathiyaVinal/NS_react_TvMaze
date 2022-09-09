@@ -2,11 +2,9 @@
 
   <br />
 
-  <h2 align="center">Pomodoro - Extension</h2>
+  <h2 align="center">TvMaze</h2>
 
-  Pomodoro is a fully responsive extension, <br />Responsive for all devices, build using HTML, CSS and Javascript.
-
-  <a href="https://lustrous-narwhal-7a8fd4.netlify.app/"><strong>➥ Live Demo</strong></a>
+  TvMaze is a fully responsive extension, <br />Responsive for all devices, build using React.
 
 </div>
 
@@ -29,7 +27,7 @@ To run **Pomodoro** locally, run this command on your git bash:
 Windows:
 
 ```bash
-git clone https://github.com/LathiyaVinal/JS-pomodoro-extension.git
+https://github.com/LathiyaVinal/NS_react_TvMaze.git
 ```
 
 ### Contact
