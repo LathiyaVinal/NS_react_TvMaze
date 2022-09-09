@@ -10,9 +10,6 @@
 
 <br />
 
-### Demo Screeshots
-
-![Screenshot](ss1.png)
 
 ### Prerequisites
 
